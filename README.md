@@ -36,6 +36,9 @@ I'm Gabriel, student and open source enthusiast from Brazil.
 > We shape our dwellings, 
 > and afterwards our dwellings shape us.
    
+   
+- :computer: Techs: <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+
 - 💬 Ask me anything [here](https://github.com/magaliais/magaliais/issues/new) or [email](mailto:gabriel.ashm@hotmail.com) me
 
 
