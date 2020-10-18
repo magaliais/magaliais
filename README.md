@@ -32,7 +32,9 @@ Please feel free to clone projects, raise issues and submit PRs if you think som
 I'm Gabriel, student and open source enthusiast from Brazil.
 
 
-### :sparkles:  Seeking knowledge all the time
+### As Winston Churchill said:
+> We shape our dwellings, 
+> and afterwards our dwellings shape us.
    
 - 💬 Ask me anything [here](https://github.com/magaliais/magaliais/issues/new) or [email](mailto:gabriel.ashm@hotmail.com) me
 
