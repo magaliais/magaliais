@@ -2,12 +2,7 @@
 
 Implementar
 
-Linkedin Badge
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK DO MEU LINKEDIN)](LINK DO MEU LINKEDIN)
 
-I'm Gabriel, Student and open source enthusiast from Brazil, I have 2+ years experience in Front-end and Back-end.  
-
-Please feel free to clone projects, raise issues and submit PRs if you think something could be better.  
 
 
 
@@ -20,35 +15,71 @@ Please feel free to clone projects, raise issues and submit PRs if you think som
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 
+
+React  <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
+Dart  <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png">
+Flutter  <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png">
+
+
 -->
 
 
-# Hello there!
+<div align="center">
+ <h1>
+  🐟 Olá! Eu sou o Gabriel 
+  <br />
+  <br />
+    
+  <a  target="_blank" href="https://www.linkedin.com">
+    <img alt="Linkedin" width="22px" src="https://raw.githubusercontent.com/magaliais/magaliais/images/linkedin.svg" />
+  </a>
+  
+  <a target="_blank" href="https://www.instagram.com/magaliais/">
+    <img alt="Instagram" width="22px" src="https://raw.githubusercontent.com/magaliais/magaliais/images/instagram.svg" />
+  </a>
+  
+  <a target="_blank" href="mailto:gabriel.albuquerque@ice.ufjf.br">
+    <img alt="Email" width="22px" src="https://raw.githubusercontent.com/magaliais/magaliais/1b6fab456bd620dc4ca1de9632218c54d967626d/.github/gmail.svg" />
+  </a>
+  
+  <a target="_blank" href="https://twitter.com/higorsbd">
+    <img alt="Twitter" width="22px" src="https://raw.githubusercontent.com/magaliais/magaliais/images/twitter.svg" />
+  </a>&nbsp;&nbsp;&nbsp;
+  
+ </h1>
+</div>
 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rafagoulartb@gmail.com)](mailto:rafagoulartb@gmail.com)
-[![GitHub magaliais](https://img.shields.io/github/followers/magaliais?label=follow&style=social)](https://github.com/magaliais)
-[![Goodreads Badge](https://img.shields.io/badge/Goodreads-382110?style=flat-square&logo=goodreads&logoColor=white)](https://www.goodreads.com/user/show/108674376-magaliais)
-
-I'm Gabriel, student and open source enthusiast from Brazil.
-
-
-### As Winston Churchill said:
-> We shape our dwellings, 
-> and afterwards our dwellings shape us.
-   
-   
-- :computer: Techs: <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-
-- 💬 Ask me anything [here](https://github.com/magaliais/magaliais/issues/new) or [email](mailto:gabriel.ashm@hotmail.com) me
+🎂 21 anos;
+</br>
+⏳ Cursando Ciência da Computação na [UFJF](https://www2.ufjf.br/ufjf/);
+</br>
+👨🏼‍💻 No momento aprendendo Data Science;
+</br>
+💬 Me pergunte qualquer coisa [aqui](https://github.com/magaliais/magaliais/issues/new) ou me mande um [email](mailto:gabriel.ashm@hotmail.com).
+ 
 
 
+---
 
-<details>
-  <summary>My Github Stats</summary>
-  <br>
+**🦉 Linguagens já utilizadas**  
 
-  <p align="center">
+<br />
+<div align="center">
+  <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
+  <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png">
+  <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
+  <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
+  <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
+  <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
+  <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">
+  <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+</div>
+
+---
+
+**🕵 Estatísticas do meu perfil**  
+
+<p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=magaliais&show_icons=true&theme=dark" alt="Gabriel Magalhães' Github Stats" alt="Gabriel Magalhães' Github Status" />
    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=magaliais&layout=compact&theme=dark" width="400px" height="200px" />
   </p>
-</details>
