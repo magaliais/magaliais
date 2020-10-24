@@ -31,19 +31,19 @@ Flutter  <img height="35" src="https://raw.githubusercontent.com/github/explore/
   <br />
     
   <a  target="_blank" href="https://www.linkedin.com">
-    <img alt="Linkedin" width="22px" src="https://raw.githubusercontent.com/magaliais/magaliais/images/linkedin.svg" />
+    <img alt="Linkedin" width="22px" src="images/linkedin.svg" />
   </a>
   
   <a target="_blank" href="https://www.instagram.com/magaliais/">
-    <img alt="Instagram" width="22px" src="https://raw.githubusercontent.com/magaliais/magaliais/images/instagram.svg" />
+    <img alt="Instagram" width="22px" src="images/instagram.svg" />
   </a>
   
   <a target="_blank" href="mailto:gabriel.albuquerque@ice.ufjf.br">
-    <img alt="Email" width="22px" src="https://raw.githubusercontent.com/magaliais/magaliais/1b6fab456bd620dc4ca1de9632218c54d967626d/.github/gmail.svg" />
+    <img alt="Email" width="22px" src="images/gmail.svg" />
   </a>
   
   <a target="_blank" href="https://twitter.com/higorsbd">
-    <img alt="Twitter" width="22px" src="https://raw.githubusercontent.com/magaliais/magaliais/images/twitter.svg" />
+    <img alt="Twitter" width="22px" src="images/twitter.svg" />
   </a>&nbsp;&nbsp;&nbsp;
   
  </h1>
