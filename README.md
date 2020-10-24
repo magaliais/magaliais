@@ -48,6 +48,7 @@ I'm Gabriel, student and open source enthusiast from Brazil.
   <br>
 
   <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=magaliais&show_icons=true&theme=dracula" alt="Gabriel Magalhães' Github Stats" alt="Gabriel Magalhães' Github Status" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=magaliais&show_icons=true&theme=dark" alt="Gabriel Magalhães' Github Stats" alt="Gabriel Magalhães' Github Status" />
+   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=magaliais&layout=compact&theme=dark" width="400px" height="200px" />
   </p>
 </details>
