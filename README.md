@@ -26,7 +26,7 @@ Flutter  <img height="35" src="https://raw.githubusercontent.com/github/explore/
 
 <div align="center">
  <h1>
-  🐟 Olá! Eu sou o Gabriel 
+  🐟 Olá! Eu sou o Gabriel.
   <br />
   <br />
     
