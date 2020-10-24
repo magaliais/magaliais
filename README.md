@@ -51,14 +51,13 @@ Flutter  <img height="35" src="https://raw.githubusercontent.com/github/explore/
 
 🎂 21 anos;
 <p>
-⏳ Cursando Ciência da Computação na [UFJF](https://www2.ufjf.br/ufjf/);
+⏳ Cursando Ciência da Computação na <a href="https://www2.ufjf.br/ufjf/">UFJF</a>;
 <p>
 👨🏼‍💻 No momento aprendendo Data Science;
 <p>
-💬 Me pergunte qualquer coisa [aqui](https://github.com/magaliais/magaliais/issues/new) ou me mande um [email](mailto:gabriel.ashm@hotmail.com).
+💬 Me pergunte qualquer coisa <a href="https://github.com/magaliais/magaliais/issues/new">aqui</a> ou me mande um <a href="mailto:gabriel.ashm@hotmail.com">email</a>.
  
-
-
+ 
 ---
 
 **🦉 Linguagens já utilizadas**  
