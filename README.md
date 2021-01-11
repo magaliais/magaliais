@@ -26,7 +26,7 @@ Flutter  <img height="35" src="https://raw.githubusercontent.com/github/explore/
 
 <div align="center">
  <h1>
-  🏕️ Olá! Eu sou o Gabriel.
+  🏕️ Saudações
   <p>
   <p>
     
@@ -49,7 +49,7 @@ Flutter  <img height="35" src="https://raw.githubusercontent.com/github/explore/
  </h1>
 </div>
 
-🎂 21 anos;
+🎂 22 anos;
 <p>
 ⏳ Cursando Ciência da Computação na <a href="https://www2.ufjf.br/ufjf/">UFJF</a>;
 <p>
@@ -60,7 +60,7 @@ Flutter  <img height="35" src="https://raw.githubusercontent.com/github/explore/
  
 ---
 
-**🦉 Linguagens já utilizadas**  
+**🦉 Linguagens e tecnologias já utilizadas**  
 
 <p>
 <div align="center">
