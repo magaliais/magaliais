@@ -32,15 +32,15 @@ Flutter  <img height="35" src="https://raw.githubusercontent.com/github/explore/
 <span>
 
   <a target="_blank" href="https://www.linkedin.com/in/gabriel-albuquerque-magalh%C3%A3es-020360206/">
-    <img alt="Linkedin" width="22px" src="./public/linkedin.svg" />
+    <img alt="Linkedin" width="22px" src="./public/linkedin.svg" style="text-decoration: none"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
   
   <a target="_blank" href="https://www.instagram.com/magaliais/">
-    <img alt="Instagram" width="22px" src="./public/instagram.svg" />
+    <img alt="Instagram" width="22px" src="./public/instagram.svg" style="text-decoration: none"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
   
   <a target="_blank" href="mailto:gabriel.albuquerque@ice.ufjf.br">
-    <img alt="Email" width="22px" src="./public/gmail.svg" />
+    <img alt="Email" width="22px" src="./public/gmail.svg" style="text-decoration: none"/>
   </a>
 
 </span>
