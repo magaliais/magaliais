@@ -23,7 +23,6 @@ Flutter  <img height="35" src="https://raw.githubusercontent.com/github/explore/
 
 -->
 
-
 <div align="center">
  <h1>
   🏕️ Howdy!
@@ -32,8 +31,8 @@ Flutter  <img height="35" src="https://raw.githubusercontent.com/github/explore/
 
 <span>
 
-  <a target="_blank" href="https://www.linkedin.com">
-    <img alt="Linkedin" width="22px" src="images/linkedin.svg" />
+  <a target="_blank" href="https://www.linkedin.com/in/gabriel-albuquerque-magalh%C3%A3es-020360206/">
+    <img alt="Linkedin" width="22px" src="./public/linkedin.svg" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
   
   <a target="_blank" href="https://www.instagram.com/magaliais/">
@@ -41,12 +40,8 @@ Flutter  <img height="35" src="https://raw.githubusercontent.com/github/explore/
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
   
   <a target="_blank" href="mailto:gabriel.albuquerque@ice.ufjf.br">
-    <img alt="Email" width="22px" src="images/gmail.svg" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  
-  <a target="_blank" href="https://twitter.com/higorsbd">
-    <img alt="Twitter" width="22px" src="images/twitter.svg" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <img alt="Email" width="22px" src="./public/gmail.svg" />
+  </a>
 
 </span>
 
@@ -58,7 +53,7 @@ Flutter  <img height="35" src="https://raw.githubusercontent.com/github/explore/
 
 ⏳ Computer Science Undergraduate at <a href="https://www2.ufjf.br/ufjf/" target="_blank">Federal University of Juiz de Fora</a>;
 
-👨🏼‍💻 Focused on Web Development;
+👨🏼‍💻 Web development;
 
 💬 Ask me anything <a href="https://github.com/magaliais/magaliais/issues/new" target="_blank">here</a> or send me an <a href="mailto:gabriel.ashm@hotmail.com">email</a>.
  
@@ -67,44 +62,26 @@ Flutter  <img height="35" src="https://raw.githubusercontent.com/github/explore/
 
 <br>
 
-**🦉 Linguagens e tecnologias já utilizadas**  
+**🔨 Tools**  
 
 <br>
-<div align="center" justify-content="space-between">
-  <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">&nbsp;&nbsp;&nbsp;
-  <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png">&nbsp;&nbsp;&nbsp;
-  <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">&nbsp;&nbsp;&nbsp;
-  <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">&nbsp;&nbsp;&nbsp;
-  <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">&nbsp;&nbsp;&nbsp;
-  <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">&nbsp;&nbsp;&nbsp;
-  <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">&nbsp;&nbsp;&nbsp;
-  <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<div align="center">
+  <img src="./public/tech-logos/html5.svg" width="40px" alt="HTML 5">&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./public/tech-logos/css3.svg" width="40px" alt="CSS 3">&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./public/tech-logos/sass.svg" width="40" alt="Sass">&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./public/tech-logos/javascript.svg" width="40px" alt="JavaScript">&nbsp;&nbsp;&nbsp;&nbsp;
+  <!-- <img src="./public/tech-logos/react.svg" width="40" alt="React">&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./public/tech-logos/electron.svg" width="40" alt="Electron">&nbsp;&nbsp;&nbsp;&nbsp; -->
+  <img src="./public/tech-logos/git.svg" width="40" alt="Git">&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 
 <br>
 
 ---
 
-**🕵 Estatísticas do meu perfil**  
+**🕵 Profile stats**  
 
-<p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=magaliais&show_icons=true&theme=dark" alt="Gabriel Magalhães' Github Stats" alt="Gabriel      Magalhães' Github Status" />
-   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=magaliais&layout=compact&theme=dark" width="400px" height="200px" />
+<p align="center" style="margin-top: 30px">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=magaliais&show_icons=true&theme=dark" alt="Gabriel Magalhães' Github Stats" alt="Gabriel Magalhães' Github Status"/><br>
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=magaliais&layout=compact&theme=dark" width="400px" height="200px" style="margin-top: 20px"/>
 </p>
-  
-<div class="row">
-  <img src="https://cdn.svgporn.com/logos/javascript.svg" alt="javascript" width="30" height="30"/>
-  <img src="https://cdn.svgporn.com/logos/typescript-icon.svg" height="30" alt="typescript">
-  <img src="https://cdn.svgporn.com/logos/nodejs-icon.svg" height="30" alt="nodejs">
-  <img src="https://cdn.svgporn.com/logos/git-icon.svg" height="30" alt="git">
-  <img src="https://cdn.svgporn.com/logos/mysql.svg" alt="mysql" width="30" height="30"/>
-  <img src="https://img.icons8.com/color/452/mongodb.png" alt="mongodb" width="35" height="35"/>
-  <img src="https://cdn.svgporn.com/logos/postgresql.svg" alt="postgresql" width="30" height="30"/>
-  <img src="https://cdn.svgporn.com/logos/vue.svg" alt="vue.js" width="30" height="30"/>  
-  <img src="https://cdn.svgporn.com/logos/react.svg" alt="react" width="30" height="30"/> 
-  <img src="https://cdn.svgporn.com/logos/jest.svg" height="30" alt="jest">
-  <img src="https://cdn.svgporn.com/logos/graphql.svg" height="30" alt="graphql">
-  <img src="https://cdn.svgporn.com/logos/ubuntu.svg" height="30" alt="ubuntu">  
-  <img src="https://manjaro.org/img/logo.svg" height="30" alt="manjaro">  
-  <img src="https://cdn.svgporn.com/logos/docker-icon.svg" height="30" alt="docker">
-</div>
