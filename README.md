@@ -26,10 +26,10 @@ Flutter  <img height="35" src="https://raw.githubusercontent.com/github/explore/
 
 <div align="right">
 
-<img align="right" margin="8px" width="428px" src="./public/code.svg">
+<img align="right" margin="15px" margin-top="100px" width="230px" src="./public/code.svg">
 
 <p>
-<img align="right" width="428px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=th1ag0-Zz&hide=handlebars&layout=compact&theme=light&hide_border=true" style="margin-top: 5rem">
+<img align="right" width="428px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=magaliais&hide=handlebars&layout=compact&theme=light&hide_border=true" style="margin-top: 5rem">
 </p>
 
 </div>
