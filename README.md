@@ -81,7 +81,7 @@ Flutter  <img height="35" src="https://raw.githubusercontent.com/github/explore/
 
 **🕵 Profile stats**  
 
-<p align="center" style="margin-top: 30px">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=magaliais&show_icons=true&theme=dark" alt="Gabriel Magalhães' Github Stats" alt="Gabriel Magalhães' Github Status"/><br>
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=magaliais&layout=compact&theme=dark" width="400px" height="200px" style="margin-top: 20px"/>
+<p align="left">
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=magaliais&show_icons=true&theme=light" alt="Gabriel Magalhães' Github Stats" style="margin-top: 30px"/><br>
+   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=magaliais&layout=compact&theme=light" width="400px" height="200px" style="margin-top: 20px"/>
 </p>
