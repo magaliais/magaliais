@@ -71,10 +71,10 @@ Flutter  <img height="35" src="https://raw.githubusercontent.com/github/explore/
 <br>
 
 ---
-# ⚛️ Frameworks
+# ⚛️ Frameworks/Stack
 
 <div align="left">
-<img height="40" alt="ReactJS" src="./public/techs/react.svg" title="ReactJS"/> &nbsp;&nbsp;&nbsp; <!-- <img height="40" src="./public/techs/react-native.svg" alt="React Native" title="React Native"> &nbsp;&nbsp;&nbsp; --> <img height="40" src="./public/techs/electron.svg" alt="Flutter" title="Electron"> &nbsp;&nbsp;&nbsp; <!-- <img height="40" src="./public/techs/flutter.svg" alt="Flutter" title="Flutter"> -->
+<img height="40" alt="ReactJS" src="./public/techs/react.svg" title="ReactJS"/> &nbsp;&nbsp;&nbsp; <img height="40" alt="NodeJS" src="./public/techs/nodejs.svg" title="NodeJS"/> &nbsp;&nbsp;&nbsp; <!-- <img height="40" src="./public/techs/react-native.svg" alt="React Native" title="React Native"> &nbsp;&nbsp;&nbsp; --> <img height="40" src="./public/techs/electron.svg" alt="Electron" title="Electron"> &nbsp;&nbsp;&nbsp; <!-- <img height="40" src="./public/techs/flutter.svg" alt="Flutter" title="Flutter"> -->
 </div>
 
 
