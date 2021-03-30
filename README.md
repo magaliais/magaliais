@@ -65,7 +65,7 @@ Flutter  <img height="35" src="https://raw.githubusercontent.com/github/explore/
 # 🔨 Languages and Techs
 
 <div align="left">
-<img height="40" alt="HTML5" src="./public/techs/html5.svg"/> &nbsp;&nbsp; <img height="40" alt="CSS3" src="./public/techs/css3.svg"/> &nbsp;&nbsp; <img height="40" alt="JavaScript" src="./public/techs/javascript.svg"/> &nbsp;&nbsp; <img height="40" alt="Sass" src="./public/techs/sass.svg"/> &nbsp; <img height="40" alt="Git" src="./public/techs/git.svg"/>
+<img height="40" alt="HTML5" src="./public/techs/html5.svg" title="HTML5"/> &nbsp;&nbsp; <img height="40" alt="CSS3" src="./public/techs/css3.svg" title="CSS3"/> &nbsp;&nbsp; <img height="40" alt="JavaScript" src="./public/techs/javascript.svg" title="JavaScript"/> &nbsp;&nbsp; <img height="40" alt="Sass" src="./public/techs/sass.svg" title="Sass"/> &nbsp; <img height="40" alt="Git" src="./public/techs/git.svg" title="Git"/>
 </div>
 
 <br>
