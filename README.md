@@ -52,7 +52,7 @@ Flutter  <img height="35" src="https://raw.githubusercontent.com/github/explore/
 
 # 🏕️ Hey there!
 <br>
-🎂 22 years old;
+🎂 23 years old;
 <br>
 ⏳ Computer Science Undergraduate at <a href="https://www2.ufjf.br/ufjf/" target="_blank">Federal University of Juiz de Fora</a>;
 <br>
