@@ -50,11 +50,13 @@ Flutter  <img height="35" src="https://raw.githubusercontent.com/github/explore/
 
 ---
 
-# 🏕️ Hey there!
+# ⚛️ Hey there!
 <br>
 🎂 23 years old;
 <br>
 ⏳ Computer Science Undergraduate at <a href="https://www2.ufjf.br/ufjf/" target="_blank">Federal University of Juiz de Fora</a>;
+<br>
+⏳ Software Engineer Intern at <a href="https://levty.com/br/" target="_blank">Levty</a>;
 <br>
 👨🏼‍💻 Web developer;
 <br>
@@ -71,10 +73,14 @@ Flutter  <img height="35" src="https://raw.githubusercontent.com/github/explore/
 <br>
 
 ---
-# ⚛️ Frameworks/Stack
+# ⚛️ Main Stack
 
 <div align="left">
-<img height="40" alt="ReactJS" src="./public/techs/react.svg" title="ReactJS"/> &nbsp;&nbsp;&nbsp; <img height="40" alt="NodeJS" src="./public/techs/nodejs.svg" title="NodeJS"/> &nbsp;&nbsp;&nbsp; <!-- <img height="40" src="./public/techs/react-native.svg" alt="React Native" title="React Native"> &nbsp;&nbsp;&nbsp; --> <img height="40" src="./public/techs/electron.svg" alt="Electron" title="Electron"> &nbsp;&nbsp;&nbsp; <!-- <img height="40" src="./public/techs/flutter.svg" alt="Flutter" title="Flutter"> -->
+  <img height="40" alt="ReactJS" src="./public/techs/react.svg" title="ReactJS"/> &nbsp;&nbsp;&nbsp; 
+  <img height="40" alt="NodeJS" src="./public/techs/nodejs.svg" title="NodeJS"/> &nbsp;&nbsp;&nbsp; 
+  <img height="40" src="./public/techs/mongodb.svg" alt="MongoDB" title="MongoDB"> &nbsp;&nbsp;&nbsp; 
+  <img height="40" src="./public/techs/express.svg" alt="Express" title="Express"> &nbsp;&nbsp;&nbsp;
+  <!-- <img height="40" src="./public/techs/electron.svg" alt="Electron" title="Electron"> &nbsp;&nbsp;&nbsp; -->
 </div>
 
 
