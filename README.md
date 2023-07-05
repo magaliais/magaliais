@@ -56,7 +56,7 @@ Flutter  <img height="35" src="https://raw.githubusercontent.com/github/explore/
 <br>
 ⏳ Computer Science Undergraduate at <a href="https://www2.ufjf.br/ufjf/" target="_blank">Federal University of Juiz de Fora</a>;
 <br>
-⏳ Software Engineer Intern at <a href="https://levty.com/br/" target="_blank">Levty</a>;
+⏳ Software Engineer Intern at <a href="https://visagio.com" target="_blank">Visagio</a>;
 <br>
 👨🏼‍💻 Web developer;
 <br>
