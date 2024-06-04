@@ -52,11 +52,11 @@ Flutter  <img height="35" src="https://raw.githubusercontent.com/github/explore/
 
 # ⚛️ Hey there!
 <br>
-🎂 24 years old;
+🎂 25 years old;
 <br>
 ⏳ Computer Science Undergraduate at <a href="https://www2.ufjf.br/ufjf/" target="_blank">Federal University of Juiz de Fora</a>;
 <br>
-⏳ Software Engineer Intern at <a href="https://visagio.com" target="_blank">Visagio</a>;
+⏳ Developer at <a href="https://visagio.com" target="_blank">Visagio</a>;
 <br>
 👨🏼‍💻 Web developer;
 <br>
